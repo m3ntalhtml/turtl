@@ -1,2 +1,2 @@
-# turtl
-Great repository names are short and memorable. Need inspiration? How about cuddly-tribble.
+# Turtl Website
+Tutrl website; w3.css based website designed by Sari.
