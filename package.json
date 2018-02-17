@@ -1,13 +1,15 @@
 {
-  "name": "Evisocrat",
-  "description": "It's an evisocrat!",
+  "name": "turtl",
+  "description": "turtl.",
   "version": "0.0.9",
-  "main": "sharding.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node Sharding.js"
+    "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
+    "discord.js node-opus": "11.1.0",
+    "request": "2.81.0",
+    "ytdl-core" :  "github:fent/node-ytdl-core#master",
+    "node-opus": "^2.3.0"
   }
 }
